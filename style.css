@@ -39,21 +39,6 @@ form,
     border: 1px solid gray;
 }
 
-.custom-select {
-    width: 93px;
-    margin: 10px;
-    position: relative;
-    font-family: Arial;
-}
-
-.custom-select select {
-    display: none;
-}
-
-.select-selected {
-    background-color: #5f9EA0;
-}
-
 .btn {
     padding: 10px;
     font-size: 15px;
